@@ -26,6 +26,14 @@ code {
   padding: 20px;
 }
 
+@media(max-width:780px){
+  .selectChart{
+    width: 85%;
+    margin: auto;
+    padding: 20px;
+  }
+}
+
 .margin-top-20{
   margin-top: 20px;
 }
